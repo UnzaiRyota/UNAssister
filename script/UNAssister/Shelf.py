@@ -14,4 +14,4 @@ reload(UNAssister.Setting)
 reload(UNAssister.CSS)
 reload(UNAssister.UNAlpha)
 
-UnAlpha()
+main()
